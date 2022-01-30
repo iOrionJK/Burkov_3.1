@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Угадайка</string>
+    <string name="range">Диапазон</string>
+    <string name="error_range">Неверное значение диапазона!</string>
+    <string name="first_number">первое число</string>
+    <string name="second_number">второе число</string>
+    <string name="start">начать</string>
+    <string name="question">Ваше число больше или меньше числа $num?</string>
+    <string name="eqgt">больше/равно</string>
+    <string name="lt">меньше</string>
+    <string name="answer">Ваше число: $num.</string>
+</resources>
